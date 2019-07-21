@@ -10,10 +10,5 @@ so, 1 + 1 = 2, 1 + 2 = 3 , 2 + 3 = 5, 5 + 3 = 8
 We focus on C so c will be the one that will be equal to the sum of the other two variables( c = a + b)
 Now to complete Fibonacci requirements, we need to make a and b the previous numbers so thats why (in sequence)
 a = b && b = c and here c = a + b 
-1 1 2            -- 
-a b c            --
-         
-1 2 3 
-a b c 
 
 And that's it . Ez i Guess.
